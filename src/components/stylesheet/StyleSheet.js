@@ -1,4 +1,4 @@
-import Inline from "../inline/Inline";
+
 import "./styleSheet.css";
 
 const StyleSheet = ({ isPrimary }) => {

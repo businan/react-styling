@@ -20,6 +20,8 @@ const myStyles = {
 const Inline = () => {
     return (
         <div>
+            {/* <h1 className='error'>Something went wrong</h1>
+            <h1 className={styles.success}> 200 OK Success </h1> */}
             <h1
                 style={{
                     color: "purple",
